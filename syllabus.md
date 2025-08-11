@@ -20,15 +20,15 @@ aside:
   * TBD -- I will discuss this in lecture so we can agree on times that work for you.
   * Non-scheduled times by appointment (email me or catch me before or after class to schedule)
   * You should also feel free to drop by my office.
-* **Prerequisites:** CMSC 221 and CMSC 222, both with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
+* **Prerequisites:** CMSC 301 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
 ### Meeting Times
 
 ## Class/Lab Info
-* Lecture (Jepson 103B)
+* Lecture (Jepson 120)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jespson 103B)
+* Lab (Jespson 120)
   * Fri 12:00PM - 12:50PM
 
 ### Course Staff

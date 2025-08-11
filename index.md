@@ -9,7 +9,7 @@ title: CMSC 332 Fall 2025
             <ul class="contact-list">
                 <li><b><a href="https://cs.richmond.edu/faculty/dszajda/">Dr. Doug Szajda</a></b></li>
                 <li><a href="mailto:dszajda@richmond.edu">dszajda@richmond.edu</a></li>
-                <li>Office Hours (Jepson 223):
+                <li>Office Hours (Jepson 219):
                     <ul>
                         <li>Tue 4:30PM - 5:30PM</li>
                         <li>Fri 3:00PM - 5:00PM</li>
