@@ -37,28 +37,46 @@ aside:
 
 ## Course Details 
 
-### Welcome to Algorithms!
+### Welcome to Computer Networks!
 
 Your dedication and hard work have led you to this moment; you belong here. Congratulations on your achievements, and welcome to the course. I am thrilled to have you here and am looking forward to a semester filled with growth, learning, and success. Together, we will explore, create, and innovate. Let's make this an outstanding semester for everyone!
 
 ### Course Description
 
-This is a one unit course on computer algorithms. We will discuss and participate in the design and analysis of 
-algorithms (and sometimes their associated data structures). This is among other things a course in advanced problem solving.  Algorithms will be motivated by examples from several application domains, including (but not limited to) operating systems, compilers, machine learning, networks, security, bioinformatics, graphics, and computational geometry.  Some topics will not be revealed in advance, but instead will be revealed at the time they are covered so that you are able to have a true problem solving experience. (In English: If you read about some of these topics beforehand, then you're not really solving the problem but instead just repeating the solution). 
+This is a one unit course on computer networks. 
+These networks, and in particular the Internet, 
+are fundamental to our everyday lives. Whether for enabling global scale
+commerce or connecting long lost friends, these systems have created
+an unparalleled age of information. Accordingly, knowledge of such
+systems is critical for all scientists and engineers. This course
+provides an overview of networking technologies. Students
+satisfactorily completing this course will gain the skills necessary
+to analyze and design networking systems and protocols. The course
+will begin with the application layer, looking at design patterns
+present in common application layer protocols. We then move down the
+network stack, considering topics such as reliable transmission and
+congestion control at the transport layer, routing at the network
+layer, and multiple access protocols at the link layer. After this
+discussion, the latter portion of the course will include
+wireless/mobile networks and devices, cellular networks, queuing fundamentals, security,
+network management, and time permitting, other current topics in networks
+
 
 ### Learning Outcomes
 By the end of this course, you will:
 
-- Have something of a roadmap to guide you in how to solve problems, as well as a "toolkit" of fundamental problem solving strategies
-- Be comfortable with analyzing the runtime and memory requirements of algorithms
-- Be comfortable with proving assertions of runtime and memory usage
-- Understand practical and theoretical limits to which problems can be solved, as well as strategies to employ when efficient solutions don't appear to be possible 
-- Gain an understanding of the proper ways to think about classes of problems
-- Be comfortable with using and creating LaTeX documents
+- Have an understanding of what network protocols are, as well as the complexities of such
+algorithms that arise because of the unique domain that computer networks presents
+- Be familiar with the protocols that govern the Internet
+- Have an understanding of *why* the protocols are designed as they are (including the fundamental design principles and how they have continued to evolve)
+- Gain an understanding of the factors that influence network performance, as well as the measures used to measure that performance
+- Gain an understanding of how the theory of netwowrks are limited by the practical realities of deployed systems 
  
 
 
 ### Course Topics (Not necessarily covered in the order listed)
+
+If you're reading past this, it's from 315, not from 332.  The details of assignments have not yet been determined. 
 
 - Problem solving
 - Finding Counter Examples 
