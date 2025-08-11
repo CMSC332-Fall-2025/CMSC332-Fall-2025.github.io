@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMSC 315, Section 2, Spring 2025
+title: CMSC 332 Fall 2025
 ---
 ## Teaching Staff
 <div class="wrapper" markdown="0">
@@ -22,15 +22,15 @@ title: CMSC 315, Section 2, Spring 2025
 </div>
 
 ## Course Tutors and Mentors
-* None. It's all on me! (Though be aware of help sessions and peer tutors!)
+* None. It's all on me! (Unfortunately, the course has not been offered since the fall of 2021, so no peer tutors.)
 
 
 
 ## Class/Lab Info
-* Lecture (Jepson 103B)
+* Lecture (Jepson 120)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jepson 103B)
+* Lab (Jepson 120)
   * Fri 12:00PM - 12:50PM
 
 
