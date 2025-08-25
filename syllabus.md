@@ -65,58 +65,45 @@ network management, and time permitting, other current topics in networks
 ### Learning Outcomes
 By the end of this course, you will:
 
+- Have an understanding of the problems that arise when a large number of computers is to be
+interconnected for comminication purposes
 - Have an understanding of what network protocols are, as well as the complexities of such
 algorithms that arise because of the unique domain that computer networks presents
 - Be familiar with the protocols that govern the Internet
 - Have an understanding of *why* the protocols are designed as they are (including the fundamental design principles and how they have continued to evolve)
 - Gain an understanding of the factors that influence network performance, as well as the measures used to measure that performance
-- Gain an understanding of how the theory of netwowrks are limited by the practical realities of deployed systems 
+- Gain an understanding of how the theory of networks are limited by the practical realities of deployed systems 
+- Gain experience writing low level network code using the sockets API
  
 
 
-### Course Topics (Not necessarily covered in the order listed)
+### Course Summary
 
-If you're reading past this, it's from 315, not from 332.  The details of assignments have not yet been determined. 
+Communications networks are fundamental to our everyday lives. Whether for enabling global scale commerce or connecting long lost friends, these systems have created an unparalleled age of information. Accordingly, knowledge of such systems is critical for all scientists and engineers. This course provides an overview of networking technologies. Students satisfactorily completing this course will gain the skills necessary to analyze and design networking systems and protocols. The course will begin with the application layer, looking at design patterns present in common application layer protocols. We then move down the network stack, considering topics such as reliable transmission and congestion control at the transport layer, routing at the network layer, and multiple access protocols at the link layer. After this discussion, the latter portion of the course will include wireless/mobile networks and devices, cellular networks, queuing fundamentals, security, network management, and time permitting, other current topics in networks.
 
-- Problem solving
-- Finding Counter Examples 
-- Big-O / loop optimization 
-- Graphs and Graph algorithms
-  - Representations 
-  - Runtimes of basic operations
-  - DFS
-  - Connected Components, Strongly connected components
-  - Topological Sort / Pre-Post numbers
-  - BFS/Dijkstra, Dijkstra/Implementation/Runtime, Proofs of some of these.
-  - Minimum spanning trees
-- Set union, find, related data structure
-- Flow networks
-	- The problem/solutions/counterexamples
-	- Max flow/ min cut/ runtime
-	- Constrained matching problems
-- Linear programming
-- Greedy strategy
-- Divide and Conquer strategy
-- Dynamic programming
-- NP-Completeness
-- Approximation algorithms
+Topics covered include (but are not limited to):
 
+- Introduction to computer networks -- what are the problems, what are the building blocks, how are they arranged
+- The application layer, and consideration of specific application programs 
+- The transport layer
+- The networks layer (data plane and control plane)
+- The Data link layer (and various data link networks)
+- Mobile networking
+- Whatever interesting network topics we may have time for
+
+ 
 ## Textbook and Resources
 
 ### Textbook
 
-Algorithms, by S. Dasgupta, C. Papadimitriou, and U. Vazirani
-	
-Free pdf copies of this text can be found on the Internet.  You will also be able to find parts of the answer key for the problems in the text.	Though I will not be assigning those problems, they can make for good practice for exams. 
+- [Computer Networking: A Top Down Approach] (8th Edition), by Kurose and Ross	
 
-- [Algorithms], by Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vazirani
-
+- [TCP/IP Sockets in C] (Second Edition), by Donahoo and Calvert
 
 ### Resources
 
-The following book is **not required** for this course, bit it is the book I used for previous instances of the course, and the book associated with some of the slides I use in class. 
-
-- [Algorithm Design and Applications] by Michael Goodrich and Roberto Tamassia
+- The RFC-Editor portal (https://www.rfc-editor.org/) You likely don't know what 
+this is right now, but you will soon. 
 
 ## Coursework and Grading
 
