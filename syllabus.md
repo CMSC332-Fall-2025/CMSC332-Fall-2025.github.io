@@ -77,9 +77,7 @@ algorithms that arise because of the unique domain that computer networks presen
  
 
 
-### Course Summary
-
-Communications networks are fundamental to our everyday lives. Whether for enabling global scale commerce or connecting long lost friends, these systems have created an unparalleled age of information. Accordingly, knowledge of such systems is critical for all scientists and engineers. This course provides an overview of networking technologies. Students satisfactorily completing this course will gain the skills necessary to analyze and design networking systems and protocols. The course will begin with the application layer, looking at design patterns present in common application layer protocols. We then move down the network stack, considering topics such as reliable transmission and congestion control at the transport layer, routing at the network layer, and multiple access protocols at the link layer. After this discussion, the latter portion of the course will include wireless/mobile networks and devices, cellular networks, queuing fundamentals, security, network management, and time permitting, other current topics in networks.
+### Course Topics 
 
 Topics covered include (but are not limited to):
 
