@@ -11,7 +11,7 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
-| 1    | Aug 26:   <br />Placeholder (for now)<br />  | Aug 28: <br />Same here (so ignore 315 slide set) Slides: [Asymptotic Analysis](lectures/AsymptoticAnalysis.pdf)<br />  | Aug 29: <br /> Homework 1: [Asymptotic analysis (and other warmup)](homeworks/homework1.md) (Due Thurs, Jan 23 at 11:59 pm) <br />|
+| 1    | Aug 26:   <br />Placeholder (for now)<br />  | Aug 28: <br />Same here | Aug 29: <br /> |
 | 2    | Sept 2: | Sept 4: | Sept 5: |
 | 3   | Sept 9: | Sept 11: | Sept 12: |
 | 4   | Sept 16: | Sept 18: | Sept 19: |
