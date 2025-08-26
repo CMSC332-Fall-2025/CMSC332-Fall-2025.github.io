@@ -126,9 +126,11 @@ some understanding, but minor errors, you will earn a "needs minor revision", wh
 you will have the opportunity to improve.  If your solution shows a serious misunderstanding,
 you will earn a "needs major revision".  Again, you will have the opportunity to 
 improve that.  There will be no partial credit.  You will receive credit only
-for those problems for which you earn a satisfactory mark.   Because the midterms are
-take home exams, I reserve the right to grade some problems via an individual session
-in which I ask you to work through problems. 
+for those problems for which you earn a satisfactory mark.  Note that this also 
+removes the need to argue for more "points" -- you either know the concept or you
+don't. 
+
+Because the midterms are take home exams, I reserve the right to grade some problems via an individual session in which I ask you to work through problems. 
 
 - There will be four programming projects.  These will be graded the same way, but because
 these are not "timed" like exams are, once the deadline has passed, you will not longer have
@@ -152,49 +154,70 @@ according to which learning outcomes you have met.  I have yet to completely wor
 out, but I will have them worked out soon (and may still be tweaking things during
 the semester). 
 
+My goal is that the final exam grades reflect the following ideal as much as possible. (Note that this means that curving grades is not necessary, nor are you competing against your classmates.)
+- An ``A'' means that your knowledge of this material is exceptional. When you have to build on the material that you learned in this class in your future classes, then you will be able to do so easily.
+- A ``B'' means that you have a good understanding of most of the material, but may have some gaps in your understanding, or are not as comfortable with some aspects of it as you might be. As such you may want to review this material before taking more advanced classes. You will be able to apply the material in this class, but you may have difficulty doing so with some of it.
+- A ``C'' means that your knowledge of this material is average/mediocre. You will likely struggle to apply this material in your future classes, as you have struggled learning the material in this class.
+- A ``D'' means that you are not ready for future classes that builds on material from this class.
+- An ``F'' means that in addition to the conditions for a ``D'' grade, you also didn't try and/or failed to hand in work.
+- A ``V'' means that you missed too many classes to pass the class, regardless of your performance on the work.
+
 ### Programming Expectations
 
-Though the course is not programming intensive (as with, say, CMSC 240), there are three programming assignments. 
-These must be completed using the Java programming language. 
+This course requires, as mentioned above, the completion of four programming projects. Projects must be written in C or C++.  Note that this is a systems course - successfully completing coding assignments is a necessary condition for earning a desirable grade (because being able to code such projects is one of the course learning goagls). Moreover, the projects are an essential part of the learning process. For this reason, if a student is missing even a single project at the end of the course, he or she will receive a grade of `F' for the course!
 
-You are expected to submit well-written code:
+Unlike some of the lower level CS courses, in this course (and any other senior level course) a program must both compile without errors (as defined below) and suggest an earnest effort to meet project
+specifications in order to receive any credit! There are a number of other factors that may influence the grade that a program receives. Here are some of them:
 
-- Comments must be substantive.
-- Choose descriptive and readable variable names and method names.
-- Use consistent (and reasonable) indentation.
-- Submit code that compiles.
-  - Additionally, your code should be compiled in a standard, pre-described way for the class (e.g., using javac in the VSCode terminal command line).
+- Is the program "user-friendly"? That is, does the user have to guess at how to use the program, or does the program somehow provide this information to the user (e.g., via a README file)?
 
-You are also expected to be able to describe and answer questions about your code when prompted.
+- Is the code readable? (One letter variable names, other than for loop indices, are strictly prohibited!)
+
+- Is the code well documented? Every program assignment grade will have a significant documentation component. No one should have to dig through poorly documented code (try it some time)!
+
+- Is the code "well-structured"?
+
+- How well has your code been debugged and tested? 
+
+You should consider me a client who is purchasing your code. As the developer, it is your responsibility to ensure that I receive the latest working version of your source code and that it compiles correctly on the CS Department Linux cluster. If you happen to submit an old version of your code by accident, or you submit binaries instead of source code, then I'm not going to be a happy customer.
+
+In line with the previous item, the version of the code you submit to me should have all debugging output removed. This does not mean that you have to remove the debugging code from the source. It does mean that when the code runs, I should not be getting debugging output by default.
+
+### The Programming Environment
+
+We will be coding in UNIX based environments and using the command line and whatever editor you prefer. All programming assignments must satisfy and/or include the following:
+
+- They must be implemented in C or C++.
+- They must compile without warnings using the installed GNU C or C++ compiler, with the -Wall option, on the department Linux cluster. I mention this because C and C++ are, well, not always portable (but you knew that), and so it is possible (and in fact likely for some of these projects) that network code that compiles and runs correctly on one platform will perform differently on another.
+- Every project must include a thorough (though concise) report describing the final testing you performed in order to convince yourself that the program meets all project specifications.
+
+### On Coding Help and Debugging
+
+Programming Help: I am happy to discuss programming and debugging techniques, as well as the semantics of particular functions calls. I am also happy to direct you to appropriate packages. And I will at times provide you with "shell code". With regards to programming, I am in general happy to help you in whatever way is necessary. I will not, however, debug your code for you! If you describe your programming issue with me, I will be happy to suggest potentially useful debugging strategies. But debugging is an important part (and in fact the majority part for these projects) of the programming process. As such, you need to be comfortable with doing it on your own!  That does not mean I intend for you to be stuck on a particular error for hours.  
+
+A word of caution: I mentioned above that debugging is an essential part of the programming process. For the project in this course, you might end up spending four or five times more effort in debugging your code than in writing it! Several years ago I spent one afternoon coding one of these assignments, and four days debugging it (it worked fine on one of my laptops, and crashed with a segmentation fault on the department servers (which were Solaris servers, at the time)). This is the nature of the network programming beast. You need to take this into account when planning the time you intend to spend on a programming project.
+
+You may discuss coding assignments with your classmates, faculty, other students, etc, subject to the
+empty hands policy presented below. 
+
+When you receive coding help, you should mention that help (and who helped) in your project submission.
+Regardless of how much help you received and from who, once you submit a project, it is expected that you will be able to provide me with answers to any questions regarding the code.
+
+Finally, any help you receive from someone other than me is subject to the 
+``Empty Hands'' policy --- you may freely discuss ideas and approaches with your anyone 
+subject to the restriction that you must leave the discussion without any written or otherwise recorded material. Failure to comply with this policy or the guideline discussed here
+will be treated as an Honor Code violation. Note that this policy does not apply to assignment/project group members (if any), with which you are free to share materials.
 
 ### Late Work Policy
 
 Non-exam assignments may be submitted late with a **10%** deduction **per day** late, up to a maximum of four days late. 
 
-You will have two "**late passes**" per semester to use on homework and the programming assignments.  To use a late pass, notify me which assignment you would like to use it on, and you may turn that assignment in **one week late for full credit**. 
-
-Late passes may **not** be used on the final or midterm exams.   
-
 In cases of personal illnesses, emergencies, or documented accommodations, assignments may be submitted late for full credit if you notify me of your situation.
 
 
 ### Attendance Policy
-Regular attendance for the entire class time is expected. You should not miss more than 4 total sessions (including lecture and lab). If you have to quarantine due to COVID or miss class for other legitimate reasons you will not be penalized.
+Regular attendance for the entire class time is expected. You should not miss more than 4 total sessions (including lecture and lab). 
    
-
-### Homework
-
-Homnework assignments will be distributed on Fridays, and are typically due the following Thursday at midnight.  There are some assignments which will require a second week, in which case I will make this change to the due time explicit.  Unlike other many other CS courses, the homework problems require a good amount of time for thinking prior to making any headway.  For this reason, it is strongly recommended that you begin homework assignments soon after you receive them.  Waiting until the day before they are due is a recipe for disaster (and garners no sympathy from me). projects, so might require two weeks to complete. In that case I will explicitly inform you of this. 
-
-All programming projects will be distributed in repositories you will receive via Github Classroom.  (If 
-you are unfamiliar with git or github classroom, I am happy to help walk you through the process.) Each homework
-assignment will be distributed in the form of a LaTeX file.  You are expected to modify the LaTeX file by adding your problem solutions, and then compiling the LaTeX to a pdf file, which should be placed in your homework repository.  I am happy to answer questions related to how to prepare documents using LaTeX.  There are many document preparation environments that are appropriate for LaTeX, but for this course I expect you to use Overleaf. A major advantage of Overleaf it is a uniform environment in which you can share your LaTeX files with me.  
-
- 
-### Programming Assignments
-
-Programming assignments, as mentioned above, must be coded using the Java programming language.  I will provide details regarding specifics of the coding environment shortly. 
-
 
 ## Class Communication
 
@@ -212,48 +235,21 @@ If you have personal, individual issues you'd like addressed, you should send th
 If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance, if possible. It is your responsibility to catch up with any missed material if you are able to do so.  If not, then immediately on return, work out a time-frame with me on when work will be submitted. 
 
 
-### Academic Integrity policy
-
-It is very important in this course (and in life), that your work be your own. These guidelines will help you achieve that.
-
-You must:
-
-- Do your best to solve all homework, projects, labs, and exams on your own.
-- Write the names of any students you collaborated with as a comment at the top of your file (subject to the constraints below).
-
-You may:
-
-- Discuss general approaches to solving the homework problems with other students, but the pen-to-paper, fingers-to-keyboard work should be your own. 
-- Have another student look at a specific snippet of your code (e.g., 10 lines) to help you debug a programming error.
-
-You may not:
-
-- Copy code to or from other students or people outside of the class.
-- Have someone else write code for you.
-- Copy code from the internet, unless you specifically reference the source and can explain how it works. This should be a tiny minority of the code you submit.
-- Write code as a group and then submit identical or slightly modified versions---if you discuss general approaches to solving a problem together, you still must be writing up your own independent solution.
-
-The [Honor Code](https://studentdevelopment.richmond.edu/student-handbook/honor/Honor-Code-January-2023.pdf) will apply to this course. Please read through the code carefully.
-
-
-
 ### Generative AI
 
-You will almost certainly be using generative AI in some way for the rest of your career. You may use generative AI tools for homework and programming projects in the following manner.
+You will almost certainly be using generative AI in some way for the rest of your career. You may use generative AI tools for programming projects in the following manner.
 
 You must: 
 - Understand any code that you use. I reserve the right to review your submitted code with you, and ask you to explain how it works. 
 
 You may:
-- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the Java syntax for reading input from a file, and give an example."  If you use this code, please cite the source in a comment.
+- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the C++ syntax for reading input from a file, and give an example."  If you use this code, please cite the source in a comment.
 
 You may not:
 - Ask a GenAI tool to solve the assignment.  For example, you should not paste the entire problem description and ask the GenAI to solve it for you.
 - No GenAI tools can be used for the exams.
 
 This policy is subject to change as we all learn more about how GenAI works and doesn’t work as part of learning college level course content.
-
-
 
 ### Disability Services 
 
