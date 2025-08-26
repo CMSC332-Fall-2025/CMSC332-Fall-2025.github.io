@@ -89,6 +89,10 @@ Topics covered include (but are not limited to):
 - Mobile networking
 - Whatever interesting network topics we may have time for
 
+## Prerequisite
+
+The pre-requisite for this course is CMSC 301, completed with a grade of C- or better, or permission of the instructor.
+
  
 ## Textbook and Resources
 
@@ -96,7 +100,9 @@ Topics covered include (but are not limited to):
 
 - [Computer Networking: A Top Down Approach] (8th Edition), by Kurose and Ross	
 
-- [TCP/IP Sockets in C] (Second Edition), by Donahoo and Calvert
+- [TCP/IP Sockets in C] (Second Edition), by Donahoo and Calvert.  Note that the first edition had
+a different title, so if you have a text with this title, it's the second edition, even if it does not
+say so.
 
 ### Resources
 
@@ -105,21 +111,46 @@ this is right now, but you will soon.
 
 ## Coursework and Grading
 
+I am still considering this.  Why?  Because traditional grading schemes
+have been shown to be counterproductive.  The goal in any course should
+be to learn, not to game the system so that you earn the highest grade.
+Traditional grading incentivizes the wrong things.  So, with regards to
+course work, below is what I know.  We'll discuss this again soon.
+
 ### Course Work
-- Homework (Appx. 10 of these)
-- Three programming assignments
-- 2 take-home midterm exams 
-  - First distributed February 13, due February 20
-  - Second distributed April 1, due April 11
-- Take-home final exam, distributed Friday, April 24, due Thursday, April 30, at 5:00 p.m.
+- There will be two midterm exams, and one final.  With the exception of the 
+final, you will have the opportunity to earn back a portion of the points you 
+lose on an exam.  Exam questions will be graded as follows: If you show a complete
+understanding of the issue, you will receive a satisfactory mark.  If there is 
+some understanding, but minor errors, you will earn a "needs minor revision", which
+you will have the opportunity to improve.  If your solution shows a serious misunderstanding,
+you will earn a "needs major revision".  Again, you will have the opportunity to 
+improve that.  There will be no partial credit.  You will receive credit only
+for those problems for which you earn a satisfactory mark.   Because the midterms are
+take home exams, I reserve the right to grade some problems via an individual session
+in which I ask you to work through problems. 
 
+- There will be four programming projects.  These will be graded the same way, but because
+these are not "timed" like exams are, once the deadline has passed, you will not longer have
+the opportunity to improve your grade.  Instead, you will have the opportunity to show me
+in office hours what your program is doing (or not doing) so that we can discuss where the
+issues might be.  
 
-### Grading Breakdown
-   * 50%: Homework average
-   * 20%: Programming assignments
-   * 10%: Each midterm
-   * 10%: Final exam
+- There may be a few labs, though I am not yet certain I will do that.  
 
+- There will be a few homework assignments that will not be graded.  But you will need
+to be able to solve these problems if you wish to do well on the exams.
+
+- For each assignment (and in fact for each exam), I will be discussing the learning
+goals that I am attempting to assess.
+
+This is the first time I have used this grading system, so there will be some bumps in the 
+road.  Please bear with me on that.
+
+The final grade for the course must, of course, be a grade.  It will be determined
+according to which learning outcomes you have met.  I have yet to completely work them
+out, but I will have them worked out soon (and may still be tweaking things during
+the semester). 
 
 ### Programming Expectations
 
