@@ -109,6 +109,8 @@ say so.
 - The RFC-Editor portal (https://www.rfc-editor.org/) You likely don't know what 
 this is right now, but you will soon. 
 
+- All the example code from the TCP/IP Sockets in C text (https://cs.baylor.edu/~donahoo/practical/CSockets2/textcode.html)
+
 ## Coursework and Grading
 
 I am still considering this.  Why?  Because traditional grading schemes
