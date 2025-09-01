@@ -12,7 +12,7 @@ title: Schedule
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | Aug 26: <br />[Introduction](lectures/lecture01-intro.pdf)<br /> | Aug 28:  | Aug 29: <br /> |
-| 2    | Sept 2: | Sept 4: | Sept 5: |
+| 2    | Sept 2: <br /> Project 1: [Modified TCP Echo Client](projects/project1.md) (Due Mon, September 15, at 5:00 pm | Sept 4: | Sept 5: |
 | 3   | Sept 9: | Sept 11: | Sept 12: |
 | 4   | Sept 16: | Sept 18: | Sept 19: |
 | 5  | Sept 23: | Sept 25: | Sept 26: <br /> First midterm exam distributed <br />|
