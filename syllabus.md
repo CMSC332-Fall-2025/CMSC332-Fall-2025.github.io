@@ -111,7 +111,8 @@ this is right now, but you will soon.
 
 - [All the example code from the TCP/IP Sockets in C text](https://cs.baylor.edu/~donahoo/practical/CSockets2/textcode.html)
 
-- [The student resources page for your textbook] (https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)  
+- [The student resources for your textbook](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
+
 
 ## Coursework and Grading
 
