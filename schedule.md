@@ -13,8 +13,8 @@ title: Schedule
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | Aug 26: <br />[Introduction](lectures/lecture01-intro.pdf)<br /> | Aug 28:  | Aug 29: <br /> |
 | 2    | Sept 2: <br /> Project 1: [Modified TCP Echo Client](projects/project1.md) (Due Mon, September 15, at 5:00 pm | Sept 4: | Sept 5: |
-| 3   | Sept 9: Reading: Chapter 1 in text, <br> Chapter 1, start of Chapter 2 in TCP/IP guide  | Sept 11: <br />[Introduction (cont.)](lectures/lecture02-intro.pdf)<br /> | Sept 12: |
-| 4   | Sept 16: Start Chapter 2| Sept 18: | Sept 19: |
+| 3   | Sept 9: Reading:<br> Text: Chapter 1 <br> TCP/IP guide: Chapter 1, start of Chapter 2 | Sept 11: <br />[Introduction (cont.)](lectures/lecture02-intro.pdf)<br /> | Sept 12: |
+| 4   | Sept 16: Reading: <br> Text: Start Chapter 2 <br> TCP/IP guide: finish chapter 2, start Chapter 3 | Sept 18: | Sept 19: |
 | 5  | Sept 23: | Sept 25: | Sept 26: <br /> First midterm exam distributed <br />|
 | 6    | Sept 30: | Oct 2: | Oct 3: <br /> First midterm exam due (5:00 pm) <br /> |
 | 7    | Oct 7: | Oct 9: | Oct 10: |
