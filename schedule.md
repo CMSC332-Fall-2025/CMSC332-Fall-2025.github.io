@@ -20,9 +20,9 @@ title: Schedule
 | 7    | Oct 7: <br /> First midterm exam due (5:00 pm) <br />| Oct 9: | Oct 10: <br /> Project 3: [who service](projects/project3.md) (Due Tues, November 4, at 5:00 pm) |
 | 8   | Oct 14: **Fall Break**  | Oct 16: | Oct 17: |
 | 9    | Oct 21: | Oct 23: | Oct 24: |
-| 10    | Oct 28: | Oct 30: | Oct 31: <br /> Second midterm exam distributed <br />|
-| 11    | Nov 4: | Nov 6: | Nov 7: <br /> Second midterm exam due (5:00 pm) <br />|
-| 12   | Nov 11: | Nov 13: | Nov 14: |
+| 10    | Oct 28: | Oct 30: | Oct 31: |
+| 11    | Nov 4: | Nov 6: | Nov 7: <br /> Second midterm exam distributed <br /> |
+| 12   | Nov 11: | Nov 13: | Nov 14:  <br /> Second midterm exam due (5:00 pm) <br />|
 | 13    | Nov 18: | Nov 20: | Nov 21: |
 | 14    | Nov 25 : | Nov 27: **Thanksgiving Break** | Nov 28: **Thanksgiving Break** |
 | 15   | Dec 2: | Dec 4: | Dec 5: <br /> Final exam distributed <br />|
