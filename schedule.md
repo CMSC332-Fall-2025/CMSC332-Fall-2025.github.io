@@ -17,7 +17,7 @@ title: Schedule
 | 4   | Sept 16: Reading: <br> Text: Start Chapter 2 <br> TCP/IP guide: finish chapter 2, start Chapter 3 <br /> Project 2: [Modified TCP Echo Server](projects/project2.md) (Due Mon, September 29, at 5:00 pm) | Sept 18: | Sept 19: |
 | 5  | Sept 23: Reading: <br> Text: Keep reading Chapter 2 <br />[Applications and End-to-End](lectures/lecture03-end-to-end.pdf)<br />| Sept 25: <br />[Web and FTP](lectures/lecture04-web_and_ftp.pdf)<br />| Sept 26: |
 | 6    | Sept 30: <br />[Email and DNS](lectures/lecture05-email-dns.pdf)<br /><br /> First midterm exam distributed <br />| Oct 2: | Oct 3:  |
-| 7    | Oct 7: <br /> First midterm exam due (5:00 pm) <br />| Oct 9: | Oct 10: |
+| 7    | Oct 7: <br /> First midterm exam due (5:00 pm) <br />| Oct 9: | Oct 10: <br /> Project 3: [who service](projects/project3.md) (Due Tues, November 4, at 5:00 pm) |
 | 8   | Oct 14: **Fall Break**  | Oct 16: | Oct 17: |
 | 9    | Oct 21: | Oct 23: | Oct 24: |
 | 10    | Oct 28: | Oct 30: | Oct 31: <br /> Second midterm exam distributed <br />|
