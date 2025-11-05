@@ -17,10 +17,10 @@ title: Schedule
 | 4   | Sept 16: Reading: <br> Text: Start Chapter 2 <br> TCP/IP guide: finish chapter 2, start Chapter 3 <br /> Project 2: [Modified TCP Echo Server](projects/project2.md) (Due Mon, September 29, at 5:00 pm) | Sept 18: | Sept 19: |
 | 5  | Sept 23: Reading: <br> Text: Keep reading Chapter 2 <br />[Applications and End-to-End](lectures/lecture03-end-to-end.pdf)<br />| Sept 25: <br />[Web and FTP](lectures/lecture04-web_and_ftp.pdf)<br />| Sept 26: |
 | 6    | Sept 30: <br />[Email and DNS](lectures/lecture05-email-dns.pdf)<br /><br /> First midterm exam distributed <br />| Oct 2: | Oct 3:  |
-| 7    | Oct 7: <br /> First midterm exam due (5:00 pm) <br />| Oct 9: | Oct 10: <br /> Project 3: [who service](projects/project3.md) (Due Tues, November 4, at 5:00 pm) |
-| 8   | Oct 14: **Fall Break**  | Oct 16: | Oct 17: |
-| 9    | Oct 21: | Oct 23: | Oct 24: |
-| 10    | Oct 28: | Oct 30: | Oct 31: |
+| 7    | Oct 7: <br />[Transport layer](lectures/lecture08-transport.pdf)<br /><br /> First midterm exam due (5:00 pm) <br />| Oct 9: | Oct 10: <br /> Project 3: [who service](projects/project3.md) (Due Tues, November 4, at 5:00 pm) |
+| 8   | Oct 14: **Fall Break**  | Oct 16: <br />[Reliable Transport](lectures/lecture09-reliable.pdf)<br />| Oct 17: |
+| 9    | Oct 21: | Oct 23: <br />[TCP](lectures/lecture10-tcp1_new.pdf)<br />| Oct 24: |
+| 10    | Oct 28: | Oct 30: <br />[Congestion Control](lectures/lecture11-congestion_control.pdf)<br />| Oct 31: |
 | 11    | Nov 4: | Nov 6: | Nov 7: <br /> Second midterm exam distributed <br /> |
 | 12   | Nov 11: | Nov 13: | Nov 14:  <br /> Second midterm exam due (5:00 pm) <br />|
 | 13    | Nov 18: | Nov 20: | Nov 21: |
