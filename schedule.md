@@ -21,7 +21,7 @@ title: Schedule
 | 8   | Oct 14: **Fall Break**  | Oct 16: <br />[Reliable Transport](lectures/lecture09-reliable.pdf)<br />| Oct 17: |
 | 9    | Oct 21: | Oct 23: <br />[TCP](lectures/lecture10-tcp1_new.pdf)<br />| Oct 24: |
 | 10    | Oct 28: | Oct 30: <br />[Congestion Control](lectures/lecture11-congestion_control.pdf)<br />| Oct 31: |
-| 11    | Nov 4: | Nov 6: | Nov 7: <br /> Second midterm exam distributed <br /> |
+| 11    | Nov 4: | Nov 6: <br />[Network Layer](lectures/lecture12-network.pdf)<br /> | Nov 7: <br /> Second midterm exam distributed <br /> |
 | 12   | Nov 11: | Nov 13: | Nov 14:  <br /> Second midterm exam due (5:00 pm) <br />|
 | 13    | Nov 18: | Nov 20: | Nov 21: |
 | 14    | Nov 25 : | Nov 27: **Thanksgiving Break** | Nov 28: **Thanksgiving Break** |
