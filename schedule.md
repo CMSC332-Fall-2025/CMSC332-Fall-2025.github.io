@@ -22,10 +22,10 @@ title: Schedule
 | 9    | Oct 21: | Oct 23: <br />[TCP](lectures/lecture10-tcp1_new.pdf)<br />| Oct 24: |
 | 10    | Oct 28: | Oct 30: <br />[Congestion Control](lectures/lecture11-congestion_control.pdf)<br />| Oct 31: |
 | 11    | Nov 4: | Nov 6: <br />[Network Layer](lectures/lecture12-network.pdf)<br /> | Nov 7: <br /> Second midterm exam distributed <br /> |
-| 12   | Nov 11: | Nov 13: | Nov 14:  <br /> Second midterm exam due (5:00 pm) <br />|
-| 13    | Nov 18: | Nov 20: | Nov 21: |
-| 14    | Nov 25 : | Nov 27: **Thanksgiving Break** | Nov 28: **Thanksgiving Break** |
-| 15   | Dec 2: | Dec 4: | Dec 5: <br /> Final exam distributed <br />|
+| 12   | Nov 11: <br />[IP](lectures/lecture13-ip.pdf)<br /> | Nov 13: | Nov 14:  <br /> Second midterm exam due (5:00 pm) <br />|
+| 13    | Nov 18: | Nov 20: <br />[Routing](lectures/lecture14-routing.pdf)<br />| Nov 21: |
+| 14    | Nov 25 : <br />[BGP](lectures/lecture15-BGP_and_multicast.pdf)<br />| Nov 27: **Thanksgiving Break** | Nov 28: **Thanksgiving Break** |
+| 15   | Dec 2: <br />[Link layer, part 1](lectures/lecture16-link1.pdf)<br />| Dec 4: <br />[Link layer, part 2](lectures/lecture17-link2.pdf)<br />| Dec 5: <br />[Wireless](lectures/lecture22-wireless.pdf)<br /><br /> Final exam distributed <br />|
 | 16   | Dec 6:    |   Dec 8:   | Dec 9: <br /> Final exam due (5:00 pm) <br /> |
 {% comment %}             
 | 2    | Jan 21:  <br /> Intro to Java Swing classes via SwingShell <br /> Graphs intro <br />| Jan 23: <br /> More graphs: representations, DFS<br /> <br /> [Graphs](lectures/Graph_misc_2025.pdf)<br /> | Jan 24: <br /> Homework 2: [DFS and Strongly connected components](homeworks/homework2.md) (Due Thurs, Jan 30 at 11:59 pm) <br />  |
